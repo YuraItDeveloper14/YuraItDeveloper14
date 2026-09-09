@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/card-light.svg">
-  <img alt="Yurii Dmytrenko — developer from Ukraine, scroll-driven web experiences" src="assets/card-dark.svg" width="920">
+  <img alt="Yurii Dmytrenko — developer from Ukraine, scroll-driven web experiences" src="assets/card-dark.svg" width="980">
 </picture>
 
 ### Selected work
