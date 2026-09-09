@@ -25,11 +25,3 @@
   <a href="https://yurii-dmytrenko.vercel.app"><b>Portfolio</b></a> ·
   <a href="https://github.com/YuraItDeveloper14?tab=repositories">All repositories</a>
 </p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/graph-light.svg">
-    <img alt="Contribution graph for the last year" src="assets/graph-dark.svg" width="820">
-  </picture>
-</p>
