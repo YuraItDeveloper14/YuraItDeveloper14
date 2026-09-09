@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="470" viewBox="0 0 920 470" role="img" aria-label="Yurii Dmytrenko — developer from Ukraine, scroll-driven web experiences">
+<style>text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;}</style>
+<rect x="1" y="1" width="918" height="468" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+<path d="M1 13a12 12 0 0 1 12-12h894a12 12 0 0 1 12 12v27H1z" fill="#f6f8fa"/>
+<line x1="1" y1="40" x2="919" y2="40" stroke="#d0d7de"/>
+<circle cx="24" cy="20" r="6" fill="#ff5f57"/>
+<circle cx="44" cy="20" r="6" fill="#febc2e"/>
+<circle cx="64" cy="20" r="6" fill="#28c840"/>
+<text x="460.0" y="25" text-anchor="middle" font-size="12.5" fill="#59636e">yurii@github: ~</text>
+<g><circle cx="130" cy="258" r="94" fill="#eaeef3" stroke="#d0d7de" stroke-width="1"/>
+  <ellipse cx="130" cy="200" rx="74.0" ry="12" fill="none" stroke="#94a0b0" stroke-width="1" opacity=".55"/>
+  <ellipse cx="130" cy="228" rx="89.1" ry="20" fill="none" stroke="#94a0b0" stroke-width="1" opacity=".55"/>
+  <ellipse cx="130" cy="258" rx="94.0" ry="24" fill="none" stroke="#94a0b0" stroke-width="1" opacity=".55"/>
+  <ellipse cx="130" cy="288" rx="89.1" ry="20" fill="none" stroke="#94a0b0" stroke-width="1" opacity=".55"/>
+  <ellipse cx="130" cy="316" rx="74.0" ry="12" fill="none" stroke="#94a0b0" stroke-width="1" opacity=".55"/>
+  <g fill="none" stroke="#94a0b0" stroke-width="1" opacity=".7">
+  <ellipse cx="130" cy="258" rx="94" ry="94"><animate attributeName="rx" values="94;2;94" dur="8s" begin="-0.0s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/></ellipse>
+  <ellipse cx="130" cy="258" rx="94" ry="94"><animate attributeName="rx" values="94;2;94" dur="8s" begin="-2.0s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/></ellipse>
+  <ellipse cx="130" cy="258" rx="94" ry="94"><animate attributeName="rx" values="94;2;94" dur="8s" begin="-4.0s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/></ellipse>
+  <ellipse cx="130" cy="258" rx="94" ry="94"><animate attributeName="rx" values="94;2;94" dur="8s" begin="-6.0s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/></ellipse>
+  </g>
+  <circle cx="146" cy="224" r="4" fill="#7c3aed"/><circle cx="146" cy="224" r="4" fill="none" stroke="#7c3aed" stroke-width="1.5"><animate attributeName="r" values="4;20" dur="2.6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".9;0" dur="2.6s" repeatCount="indefinite"/></circle></g>
+<text x="268" y="74" font-size="13.5" fill="#59636e"><tspan fill="#7c3aed">~</tspan> $ fastfetch</text>
+<text x="268" y="108" font-size="16" font-weight="700" fill="#7c3aed">yurii@github</text>
+<line x1="268" y1="118" x2="880" y2="118" stroke="#d0d7de"/>
+<text x="268" y="144" font-size="13.5" font-weight="600" fill="#7c3aed">Name</text>
+<text x="400" y="144" font-size="13.5" fill="#1f2328">Yurii Dmytrenko</text>
+<text x="268" y="169" font-size="13.5" font-weight="600" fill="#7c3aed">Handle</text>
+<text x="400" y="169" font-size="13.5" fill="#1f2328">YuraItDeveloper14</text>
+<text x="268" y="194" font-size="13.5" font-weight="600" fill="#7c3aed">Location</text>
+<text x="400" y="194" font-size="13.5" fill="#1f2328">Ukraine</text>
+<text x="268" y="219" font-size="13.5" font-weight="600" fill="#7c3aed">Focus</text>
+<text x="400" y="219" font-size="13.5" fill="#1f2328">Scroll-driven web experiences</text>
+<text x="268" y="257" font-size="13.5" font-weight="600" fill="#7c3aed">Languages</text>
+<text x="400" y="257" font-size="13.5" fill="#1f2328">TypeScript · JavaScript · Python · HTML/CSS</text>
+<text x="268" y="282" font-size="13.5" font-weight="600" fill="#7c3aed">Frontend</text>
+<text x="400" y="282" font-size="13.5" fill="#1f2328">React · Next.js · Tailwind · GSAP · Three.js</text>
+<text x="268" y="307" font-size="13.5" font-weight="600" fill="#7c3aed">Tools</text>
+<text x="400" y="307" font-size="13.5" fill="#1f2328">Playwright · Electron · Vite · Git</text>
+<text x="268" y="345" font-size="13.5" font-weight="600" fill="#7c3aed">Repos</text>
+<text x="400" y="345" font-size="13.5" fill="#1f2328">9 public</text>
+<text x="268" y="370" font-size="13.5" font-weight="600" fill="#7c3aed">Portfolio</text>
+<text x="400" y="370" font-size="13.5" fill="#1f2328">yurii-dmytrenko.vercel.app</text>
+<text x="268" y="395" font-size="13.5" font-weight="600" fill="#7c3aed">Judo</text>
+<text x="400" y="395" font-size="13.5" fill="#1f2328">Champion of Ukraine U15 · European Cup silver</text>
+<rect x="268" y="426" width="20" height="20" rx="3" fill="#f87171"/>
+<rect x="294" y="426" width="20" height="20" rx="3" fill="#fb923c"/>
+<rect x="320" y="426" width="20" height="20" rx="3" fill="#fbbf24"/>
+<rect x="346" y="426" width="20" height="20" rx="3" fill="#4ade80"/>
+<rect x="372" y="426" width="20" height="20" rx="3" fill="#22d3ee"/>
+<rect x="398" y="426" width="20" height="20" rx="3" fill="#60a5fa"/>
+<rect x="424" y="426" width="20" height="20" rx="3" fill="#a78bfa"/>
+<rect x="450" y="426" width="20" height="20" rx="3" fill="#f472b6"/>
+<rect x="486" y="428" width="9" height="17" fill="#1f2328"><animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/></rect>
+</svg>
