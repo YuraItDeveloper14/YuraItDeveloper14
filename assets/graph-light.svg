@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="791" height="189" viewBox="0 0 791 189" role="img" aria-label="80 contributions in the last year, 16 active days">
+<svg xmlns="http://www.w3.org/2000/svg" width="791" height="169" viewBox="0 0 791 169" role="img" aria-label="80 contributions in the last year, 16 active days">
 <style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}</style>
-<rect x="1" y="1" width="789" height="187" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+<rect x="1" y="1" width="789" height="167" rx="12" fill="#ffffff" stroke="#d0d7de"/>
 <linearGradient id="wavelight" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="260" y2="0" spreadMethod="repeat"><stop offset="0.000" stop-color="#a21caf"/><stop offset="0.200" stop-color="#7c3aed"/><stop offset="0.400" stop-color="#0891b2"/><stop offset="0.600" stop-color="#16a34a"/><stop offset="0.800" stop-color="#ca8a04"/><stop offset="1.000" stop-color="#a21caf"/><animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="260 0" dur="3.0s" repeatCount="indefinite"/></linearGradient>
 <text x="26" y="30" font-size="13.5" fill="#1f2328">80 contributions in the last year</text>
 <text x="765" y="30" text-anchor="end" font-size="12" fill="#59636e">16 active days</text>
@@ -374,11 +374,4 @@
 <rect x="754.0" y="94.0" width="11.0" height="11.0" rx="2.5" fill="url(#wavelight)" opacity="1.0"><animate attributeName="opacity" values="1.0;1.00;0.80;1.0" dur="2.6s" begin="-2.52s" repeatCount="indefinite"/></rect>
 <linearGradient id="scanlight" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="150" y2="0"><stop offset="0" stop-color="#7c3aed" stop-opacity="0"/><stop offset="0.5" stop-color="#7c3aed" stop-opacity="0.5"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></linearGradient>
 <rect x="26" y="52" width="739.0" height="95.0" fill="url(#scanlight)" opacity="0.28" pointer-events="none"><animateTransform attributeName="transform" type="translate" from="-160 0" to="899 0" dur="4.2s" repeatCount="indefinite"/></rect>
-<text x="26" y="168.0" font-size="11" fill="#59636e">Less</text>
-<rect x="62.0" y="158.0" width="11.0" height="11.0" rx="2.5" fill="#eaeef2"/>
-<rect x="76.0" y="158.0" width="11.0" height="11.0" rx="2.5" fill="url(#wavelight)" opacity="0.35"/>
-<rect x="90.0" y="158.0" width="11.0" height="11.0" rx="2.5" fill="url(#wavelight)" opacity="0.55"/>
-<rect x="104.0" y="158.0" width="11.0" height="11.0" rx="2.5" fill="url(#wavelight)" opacity="0.78"/>
-<rect x="118.0" y="158.0" width="11.0" height="11.0" rx="2.5" fill="url(#wavelight)" opacity="1.0"/>
-<text x="138.0" y="168.0" font-size="11" fill="#59636e">More</text>
 </svg>

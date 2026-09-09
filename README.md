@@ -1,4 +1,10 @@
-<h1 align="center">Yurii Dmytrenko</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/card-light.svg">
+    <img alt="Yurii Dmytrenko — full-stack developer from Ukraine" src="assets/card-dark.svg" width="980">
+  </picture>
+</p>
 
 <p align="center">
   <picture>
@@ -36,15 +42,5 @@
     <source media="(prefers-color-scheme: dark)" srcset="assets/graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/graph-light.svg">
     <img alt="Contribution graph for the last year" src="assets/graph-dark.svg" width="820">
-  </picture>
-</p>
-
----
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/map-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/map-light.svg">
-    <img alt="Map of Ukraine" src="assets/map-dark.svg" width="380">
   </picture>
 </p>
