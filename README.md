@@ -1,21 +1,24 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-light.svg">
-  <img alt="Yurii Dmytrenko — full-stack developer from Ukraine" src="assets/card-dark.svg" width="980">
-</picture>
+<h1 align="center">Yurii Dmytrenko</h1>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/typing-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/typing-light.svg">
-  <img alt="full-stack web applications, desktop apps, automations, AI-assisted tools, B2B SaaS, APIs and internal tools" src="assets/typing-dark.svg" width="980">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/typing-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/typing-light.svg">
+    <img alt="full-stack web applications, desktop apps, automations, AI-assisted tools, B2B SaaS, APIs and internal tools" src="assets/typing-dark.svg" width="900">
+  </picture>
+</p>
 
-### What I build
+<p align="center">
+  Full-stack developer from Ukraine.<br>
+  On the front — React and Next.js, with GSAP and Three.js when a page has to move.<br>
+  On the back — Node, Next.js API routes, Python and Playwright when something<br>
+  has to go out and fetch data for itself. Desktop when a browser tab is not enough.
+</p>
 
-Both ends of the stack. On the front — React and Next.js, with GSAP and Three.js
-when a page has to move. On the back — Node and Next.js API routes, Python and
-Playwright when something has to go out and fetch data for itself. Desktop when a
-browser tab is not enough.
+<p align="center">
+  <a href="https://yurii-dmytrenko.vercel.app"><b>Portfolio</b></a> ·
+  <a href="https://github.com/YuraItDeveloper14?tab=repositories">All repositories</a>
+</p>
 
 ### Selected work
 
@@ -28,20 +31,20 @@ browser tab is not enough.
 | **[Webscrapper](https://github.com/YuraItDeveloper14/Webscrapper)** | Pulls businesses off Google Maps, visits each site, extracts contact emails into SQLite with CSV export. Python and Playwright. | — |
 | **[seasons-scroll](https://github.com/YuraItDeveloper14/seasons-scroll)** | One courtyard, twelve months, one continuous shot. Scroll position drives the film. | [site](https://yuraitdeveloper14.github.io/seasons-scroll/) |
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/graph-light.svg">
-  <img alt="Contribution graph for the last year" src="assets/graph-dark.svg" width="820">
-</picture>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/map-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/map-light.svg">
-  <img alt="Map of Ukraine" src="assets/map-dark.svg" width="410">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/graph-light.svg">
+    <img alt="Contribution graph for the last year" src="assets/graph-dark.svg" width="820">
+  </picture>
+</p>
 
 ---
 
-<sub><a href="https://yurii-dmytrenko.vercel.app">yurii-dmytrenko.vercel.app</a></sub>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/map-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/map-light.svg">
+    <img alt="Map of Ukraine" src="assets/map-dark.svg" width="380">
+  </picture>
+</p>
