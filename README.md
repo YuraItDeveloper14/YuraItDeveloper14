@@ -26,17 +26,6 @@
   <a href="https://github.com/YuraItDeveloper14?tab=repositories">All repositories</a>
 </p>
 
-### Selected work
-
-| | What it is | Live |
-|---|---|---|
-| **[sayso](https://github.com/YuraItDeveloper14/sayso)** | Hold a key, say what you want, it happens. Offline push-to-talk voice control for a laptop, with a live talkback console. Built for Iris Hacks 2026. | [demo](https://yuraitdeveloper14.github.io/sayso/) |
-| **[Portfolio](https://github.com/YuraItDeveloper14/Portfolio)** | Personal site: a 3D globe that flies from space down to Ukraine as you scroll. Next.js, TypeScript, GSAP, Three.js. | [site](https://yurii-dmytrenko.vercel.app) |
-| **[CrownFlower](https://github.com/YuraItDeveloper14/CrownFlower)** | Storefront for a cap brand — catalogue, cart, wishlist, 3D hero. React and Vite, packaged with Electron. | [site](https://crownflower.vercel.app) |
-| **[Spinute](https://github.com/YuraItDeveloper14/Spinute)** | One minute of speaking practice, then a breakdown of pace, vocabulary and fluency. No build step, no backend. | [app](https://spinute.vercel.app) |
-| **[Webscrapper](https://github.com/YuraItDeveloper14/Webscrapper)** | Pulls businesses off Google Maps, visits each site, extracts contact emails into SQLite with CSV export. Python and Playwright. | — |
-| **[seasons-scroll](https://github.com/YuraItDeveloper14/seasons-scroll)** | One courtyard, twelve months, one continuous shot. Scroll position drives the film. | [site](https://yuraitdeveloper14.github.io/seasons-scroll/) |
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/graph-dark.svg">
