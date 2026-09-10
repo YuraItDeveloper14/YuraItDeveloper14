@@ -6,7 +6,7 @@
 <circle cx="24" cy="20" r="6" fill="#ff5f57"/>
 <circle cx="44" cy="20" r="6" fill="#febc2e"/>
 <circle cx="64" cy="20" r="6" fill="#28c840"/>
-<text x="500.0" y="25" text-anchor="middle" font-size="12.5" fill="#59636e">YuraItDeveloper14@github: ~</text>
+<text x="500.0" y="25" text-anchor="middle" font-size="12.5" fill="#59636e">~/about</text>
 <linearGradient id="flaglight" gradientUnits="userSpaceOnUse" x1="0" y1="80.1" x2="0" y2="407.7"><stop offset="0" stop-color="#0057B7"/><stop offset="0.44" stop-color="#0057B7"/><stop offset="0.44" stop-color="#FFD700"/><stop offset="1" stop-color="#FFD700"/></linearGradient>
   <g fill="url(#flaglight)" font-size="7.8" xml:space="preserve">
   <text x="40" y="87.9" xml:space="preserve">                                                               +@@@@@@@@@+</text>
@@ -51,17 +51,17 @@
   <text x="40" y="392.1" xml:space="preserve">                                                                      @@@@@@@#:</text>
   <text x="40" y="399.9" xml:space="preserve">                                                                      :+@@#+</text>
   </g>
-<text x="572" y="92" font-size="15" fill="#59636e"><tspan fill="#7c3aed">~</tspan> $ fastfetch</text>
-<text x="572" y="130" font-size="18" font-weight="700" fill="#7c3aed">YuraItDeveloper14@github</text>
+<text x="572" y="92" font-size="15" fill="#59636e"><tspan fill="#7c3aed">~</tspan> $ whoami</text>
+<text x="572" y="130" font-size="18" font-weight="700" fill="#7c3aed">MY INFO</text>
 <line x1="572" y1="140" x2="960" y2="140" stroke="#d0d7de"/>
 <text x="572" y="172" font-size="15" font-weight="600" fill="#7c3aed">Name</text>
 <text x="730" y="172" font-size="15" fill="#1f2328">Yurii Dmytrenko</text>
-<text x="572" y="201" font-size="15" font-weight="600" fill="#7c3aed">Handle</text>
-<text x="730" y="201" font-size="15" fill="#1f2328">YuraItDeveloper14</text>
-<text x="572" y="230" font-size="15" font-weight="600" fill="#7c3aed">Location</text>
-<text x="730" y="230" font-size="15" fill="#1f2328">Ukraine</text>
-<text x="572" y="259" font-size="15" font-weight="600" fill="#7c3aed">Role</text>
-<text x="730" y="259" font-size="15" fill="#1f2328">Full-stack developer</text>
+<text x="572" y="201" font-size="15" font-weight="600" fill="#7c3aed">Location</text>
+<text x="730" y="201" font-size="15" fill="#1f2328">Ukraine</text>
+<text x="572" y="230" font-size="15" font-weight="600" fill="#7c3aed">Role</text>
+<text x="730" y="230" font-size="15" fill="#1f2328">Full-stack developer</text>
+<text x="572" y="259" font-size="15" font-weight="600" fill="#7c3aed">Portfolio</text>
+<text x="730" y="259" font-size="15" fill="#1f2328">yurii-dmytrenko.vercel.app</text>
 <rect x="572" y="306" width="23" height="23" rx="4" fill="#f87171"/>
 <rect x="602" y="306" width="23" height="23" rx="4" fill="#fb923c"/>
 <rect x="632" y="306" width="23" height="23" rx="4" fill="#fbbf24"/>
