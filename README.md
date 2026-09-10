@@ -38,6 +38,7 @@
   <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&amp;logo=nuxt&amp;logoColor=%2300DC82">
   <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&amp;logo=angular&amp;logoColor=white">
   <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB">
+  <br>
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white">
   <img alt="Three.js" src="https://img.shields.io/badge/threejs-black?style=for-the-badge&amp;logo=three.js&amp;logoColor=white">
   <img alt="GSAP" src="https://img.shields.io/badge/gsap-0AE448?style=for-the-badge&amp;logo=gsap&amp;logoColor=white">
@@ -50,6 +51,7 @@
   <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&amp;logo=flask&amp;logoColor=white">
   <img alt="TypeGraphQL" src="https://img.shields.io/badge/TypeGraphQL-%23C04392?style=for-the-badge&amp;logo=graphql&amp;logoColor=white">
   <img alt="Web3.js" src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&amp;logo=web3.js&amp;logoColor=white">
+  <br>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white">
   <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white">
