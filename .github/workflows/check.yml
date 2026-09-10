@@ -33,3 +33,12 @@ jobs:
           print("\n".join(bad) or "all SVGs parse, all README images exist")
           sys.exit(1 if bad else 0)
           PY
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Card tests
+        run: |
+          pip install pytest
+          python -m pytest -q tests
