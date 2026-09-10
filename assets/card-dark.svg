@@ -1,73 +1,101 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="440" viewBox="0 0 1000 440" role="img" aria-label="Yurii Dmytrenko, full-stack developer from Ukraine">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="419" viewBox="0 0 1000 419" role="img" aria-label="Yurii Dmytrenko, 15, full-stack developer from Kyiv, Ukraine">
 <style>text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;}</style>
-<rect x="1" y="1" width="998" height="438" rx="12" fill="#0d1117" stroke="#30363d"/>
+<rect x="1" y="1" width="998" height="417" rx="12" fill="#0d1117" stroke="#30363d"/>
 <path d="M1 13a12 12 0 0 1 12-12h974a12 12 0 0 1 12 12v27H1z" fill="#161b22"/>
 <line x1="1" y1="40" x2="999" y2="40" stroke="#30363d"/>
 <circle cx="24" cy="20" r="6" fill="#ff5f57"/>
 <circle cx="44" cy="20" r="6" fill="#febc2e"/>
 <circle cx="64" cy="20" r="6" fill="#28c840"/>
 <text x="500.0" y="25" text-anchor="middle" font-size="12.5" fill="#8b949e">~/about</text>
-<linearGradient id="flagdark" gradientUnits="userSpaceOnUse" x1="0" y1="80.1" x2="0" y2="407.7"><stop offset="0" stop-color="#0057B7"/><stop offset="0.44" stop-color="#0057B7"/><stop offset="0.44" stop-color="#FFD700"/><stop offset="1" stop-color="#FFD700"/></linearGradient>
-  <g fill="url(#flagdark)" font-size="7.8" xml:space="preserve">
-  <text x="40" y="87.9" xml:space="preserve">                                                               +@@@@@@@@@+</text>
-  <text x="40" y="95.7" xml:space="preserve">                                                      #@@@@@@@@@@@@@@@@@@@#</text>
-  <text x="40" y="103.5" xml:space="preserve">             :#@@@@@@@@####+:                        @@@@@@@@@@@@@@@@@@@@@@@:</text>
-  <text x="40" y="111.3" xml:space="preserve">         +++#@@@@@@@@@@@@@@@@@@##+++++:   :         +@@@@@@@@@@@@@@@@@@@@@@@:</text>
-  <text x="40" y="119.1" xml:space="preserve">         @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#@@@+++++++ +@@@@@@@@@@@@@@@@@@@@@@:</text>
-  <text x="40" y="126.9" xml:space="preserve">         :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+++++</text>
-  <text x="40" y="134.7" xml:space="preserve">          +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+</text>
-  <text x="40" y="142.5" xml:space="preserve">           @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+</text>
-  <text x="40" y="150.3" xml:space="preserve">           :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-  <text x="40" y="158.1" xml:space="preserve">          :#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#+:       :</text>
-  <text x="40" y="165.9" xml:space="preserve">       :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#+#@@@@+</text>
-  <text x="40" y="173.7" xml:space="preserve">      +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#</text>
-  <text x="40" y="181.5" xml:space="preserve">     #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#+:</text>
-  <text x="40" y="189.3" xml:space="preserve">   :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#+:</text>
-  <text x="40" y="197.1" xml:space="preserve">  :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-  <text x="40" y="204.9" xml:space="preserve">   @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-  <text x="40" y="212.7" xml:space="preserve">  :#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+</text>
-  <text x="40" y="220.5" xml:space="preserve"> +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+</text>
-  <text x="40" y="228.3" xml:space="preserve">+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#</text>
-  <text x="40" y="236.1" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@:</text>
-  <text x="40" y="243.9" xml:space="preserve">+@@@@@@@@@@@@@@@@@@@@@@@@@@@@#+:  :#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#</text>
-  <text x="40" y="251.7" xml:space="preserve">  :@@@@@@@@@@@@@@@@@@@@@@+++:        :###@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#</text>
-  <text x="40" y="259.5" xml:space="preserve">   +#+  :+++++#@@@@@@##+                  +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@:</text>
-  <text x="40" y="267.3" xml:space="preserve">                +#:                        #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+::</text>
-  <text x="40" y="275.1" xml:space="preserve">                                           @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@:</text>
-  <text x="40" y="282.9" xml:space="preserve">                                            +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#</text>
-  <text x="40" y="290.7" xml:space="preserve">                                             :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+</text>
-  <text x="40" y="298.5" xml:space="preserve">                                              @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@++:</text>
-  <text x="40" y="306.3" xml:space="preserve">                                               #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#:</text>
-  <text x="40" y="314.1" xml:space="preserve">                                          ::    #@@@@@++:: +@@@@@@@@@@@@@@@@@@@@@@@@#::::::</text>
-  <text x="40" y="321.9" xml:space="preserve">                                          @@####@@@@@:     :@@@@@@@@@@@@@@@@@@@@@#+</text>
-  <text x="40" y="329.7" xml:space="preserve">                                         :@@@@@@@@@@+         :++#@@@@@@@@@@@@@@+</text>
-  <text x="40" y="337.5" xml:space="preserve">                                        :@@@@@@@@@@#                 :#@@@@@@@@@+</text>
-  <text x="40" y="345.3" xml:space="preserve">                                        @@@@@@@@@@+                  +#@@@@@@@@@#</text>
-  <text x="40" y="353.1" xml:space="preserve">                                      :#@@@@@@@@@:               :+@@@@@@@@@@@@@@#:</text>
-  <text x="40" y="360.9" xml:space="preserve">                                      +@@@@##@@#                +@@@@@@@@@@@@@@@@@@@@@@@@#</text>
-  <text x="40" y="368.7" xml:space="preserve">                                              :                 :+#@@@@@@@@@@@@@@@@@@@@@@:</text>
-  <text x="40" y="376.5" xml:space="preserve">                                                                     :+@@@@@@@@@@@@@#++:</text>
-  <text x="40" y="384.3" xml:space="preserve">                                                                      #@@@@@@@@@#:</text>
-  <text x="40" y="392.1" xml:space="preserve">                                                                      @@@@@@@#:</text>
-  <text x="40" y="399.9" xml:space="preserve">                                                                      :+@@#+</text>
+<linearGradient id="flagdark" gradientUnits="userSpaceOnUse" x1="0" y1="70.0" x2="0" y2="389.8"><stop offset="0" stop-color="#0057B7"/><stop offset="0.44" stop-color="#0057B7"/><stop offset="0.44" stop-color="#FFD700"/><stop offset="1" stop-color="#FFD700"/></linearGradient>
+<g fill="url(#flagdark)" font-size="7.8">
+  <text x="40" y="76.24" xml:space="preserve">                                                               @@##@@@@@@+</text>
+  <text x="40" y="84.04" xml:space="preserve">                                                      +##@@@###@@@@@@@@@@@:</text>
+  <text x="40" y="91.84" xml:space="preserve">             +##@@@@@@@@@#+:                         @@@@@@@@@@@@@@@@@@@@@@#</text>
+  <text x="40" y="99.64" xml:space="preserve">         ++:#@@@@@@@@@@@@@@@@@@#:+:: +    ::        @@@@@@@@@@@@@@@@@@@@@@@#:</text>
+  <text x="40" y="107.44" xml:space="preserve">         @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#@@@:: +# + @@@@@@@@@@@@@@@@@@@@@@@:</text>
+  <text x="40" y="115.24" xml:space="preserve">         #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@      #@@@@@@@@@@@@@@@@@@@@@@@#+: ::</text>
+  <text x="40" y="123.04" xml:space="preserve">          +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@       @@@@@@@@@@@@@@@@@@@@@@@@@@@@@+</text>
+  <text x="40" y="130.84" xml:space="preserve">           #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@        @@@@@@@@@@@@@@@@@@@@@@@@@@@@@:</text>
+  <text x="40" y="138.64" xml:space="preserve">           +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@          @@@@@@@@@@@@@@@@@@@@@@@@@@#</text>
+  <text x="40" y="146.44" xml:space="preserve">           +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                @@@@@@@@@@@@@@@@@@@@@@: ::       :</text>
+  <text x="40" y="154.24" xml:space="preserve">        :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                @@@@@@@@@@@@@@@@@@@@@@@@@##:+@@@@@</text>
+  <text x="40" y="162.04" xml:space="preserve">      :#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@              @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@: ::</text>
+  <text x="40" y="169.84" xml:space="preserve">     +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+ :</text>
+  <text x="40" y="177.64" xml:space="preserve">    #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@           @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+</text>
+  <text x="40" y="185.44" xml:space="preserve">   @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@          @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#</text>
+  <text x="40" y="193.24" xml:space="preserve">   #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@        @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="40" y="201.04" xml:space="preserve">  :+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+</text>
+  <text x="40" y="208.84" xml:space="preserve"> +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#+</text>
+  <text x="40" y="216.64" xml:space="preserve"> @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#+</text>
+  <text x="40" y="224.44" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="40" y="232.24" xml:space="preserve">#@@@@@@@@@@@@@@@@@@@@@@@@@@@@###+ :#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+</text>
+  <text x="40" y="240.04" xml:space="preserve"> :#@@@@@@@@@@@@@@@@@@@@@@@+:         +#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+</text>
+  <text x="40" y="247.84" xml:space="preserve">    ## ####@@@@@@@@@@@@@#:               +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="40" y="255.64" xml:space="preserve">               :#@#                        +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#:++++:</text>
+  <text x="40" y="263.44" xml:space="preserve">                                           #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@##:</text>
+  <text x="40" y="271.24" xml:space="preserve">                                           :#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@:</text>
+  <text x="40" y="279.04" xml:space="preserve">                                             +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@:</text>
+  <text x="40" y="286.84" xml:space="preserve">                                             :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+: ::</text>
+  <text x="40" y="294.64" xml:space="preserve">                                               +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@:</text>
+  <text x="40" y="302.44" xml:space="preserve">                                           :    @@@@@@@####@##@@@@@@@@@@@@@@@@@@@@@@@+++</text>
+  <text x="40" y="310.24" xml:space="preserve">                                          @@@@###@@@@@    :+#@@@@@@@@@@@@@@@@@@@@@@+</text>
+  <text x="40" y="318.04" xml:space="preserve">                                          @@@@@@@@@@@     ::+#@@@@@@@@@@@@@@@@@#++</text>
+  <text x="40" y="325.84" xml:space="preserve">                                         +@@@@@@@@@#            +:+: :+@@@@@@@@::</text>
+  <text x="40" y="333.64" xml:space="preserve">                                        #@@@@@@@@#:                 ++@@@@@@@@@#</text>
+  <text x="40" y="341.44" xml:space="preserve">                                       #@@@@@@##:                :#@@@@@@@@@@@@@#</text>
+  <text x="40" y="349.24" xml:space="preserve">                                     :@@@@@@#@@+                #@@@@@@@@@@@@@@@@@  +##@@#</text>
+  <text x="40" y="357.04" xml:space="preserve">                                      :+#+:   +:                 : :@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="40" y="364.84" xml:space="preserve">                                                                       @@@@@@@@@@@#:+@#@#</text>
+  <text x="40" y="372.64" xml:space="preserve">                                                                      +@@@@@@@@@@:</text>
+  <text x="40" y="380.44" xml:space="preserve">                                                                     :#@@@@@+</text>
+  <text x="40" y="388.24" xml:space="preserve">                                                                      +@@@@:</text>
   </g>
-<g font-size="7.8" xml:space="preserve"><text x="263.28" y="161.66" fill="#ff3b30" font-weight="700">@</text><circle cx="265.43" cy="158.93" r="5.8" fill="none" stroke="#ff3b30" stroke-width="1"><animate attributeName="r" values="3.9;17.2" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0" dur="2.4s" repeatCount="indefinite"/></circle><text x="272.72" y="160.88" font-size="11" fill="#ff3b30" font-weight="700">Kyiv</text></g>
-<text x="572" y="92" font-size="15" fill="#8b949e"><tspan fill="#a78bfa">~</tspan> $ whoami</text>
-<text x="572" y="130" font-size="18" font-weight="700" fill="#a78bfa">MY INFO</text>
-<line x1="572" y1="140" x2="960" y2="140" stroke="#30363d"/>
-<text x="572" y="172" font-size="15" font-weight="600" fill="#a78bfa">Name</text>
-<text x="730" y="172" font-size="15" fill="#e6edf3">Yurii Dmytrenko</text>
-<text x="572" y="201" font-size="15" font-weight="600" fill="#a78bfa">Location</text>
-<text x="730" y="201" font-size="15" fill="#e6edf3">Kyiv, Ukraine</text>
-<text x="572" y="230" font-size="15" font-weight="600" fill="#a78bfa">Role</text>
-<text x="730" y="230" font-size="15" fill="#e6edf3">Full-stack developer</text>
-<rect x="572" y="277" width="23" height="23" rx="4" fill="#f87171"/>
-<rect x="602" y="277" width="23" height="23" rx="4" fill="#fb923c"/>
-<rect x="632" y="277" width="23" height="23" rx="4" fill="#fbbf24"/>
-<rect x="662" y="277" width="23" height="23" rx="4" fill="#4ade80"/>
-<rect x="692" y="277" width="23" height="23" rx="4" fill="#22d3ee"/>
-<rect x="722" y="277" width="23" height="23" rx="4" fill="#60a5fa"/>
-<rect x="752" y="277" width="23" height="23" rx="4" fill="#a78bfa"/>
-<rect x="782" y="277" width="23" height="23" rx="4" fill="#f472b6"/>
-<rect x="822" y="280" width="10" height="19" fill="#e6edf3"><animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/></rect>
+<g fill="#ff7a6e" font-size="7.8"><animate attributeName="opacity" values="1;0.78;1" dur="3s" repeatCount="indefinite"/>
+  <text x="40" y="115.24" xml:space="preserve">                                              %  %</text>
+  <text x="40" y="123.04" xml:space="preserve">                                              %%%%%</text>
+  <text x="40" y="130.84" xml:space="preserve">                                              %%%%%%</text>
+  <text x="40" y="138.64" xml:space="preserve">                                               %%%%%%</text>
+  <text x="40" y="146.44" xml:space="preserve">                                              %%%%%%%%%%</text>
+  <text x="40" y="154.24" xml:space="preserve">                                               %%%%%%%%%%%%%%</text>
+  <text x="40" y="162.04" xml:space="preserve">                                                %%%%%%%%%%%%</text>
+  <text x="40" y="169.84" xml:space="preserve">                                                %%%%%%%%</text>
+  <text x="40" y="177.64" xml:space="preserve">                                               %%%%%%%%</text>
+  <text x="40" y="185.44" xml:space="preserve">                                               %%%%%%%</text>
+  </g>
+<g fill="#ff3b30" font-size="7.8">
+  <text x="40" y="107.44" xml:space="preserve">                                              @  @</text>
+  <text x="40" y="115.24" xml:space="preserve">                                             @ @@ @</text>
+  <text x="40" y="123.04" xml:space="preserve">                                             @     @</text>
+  <text x="40" y="130.84" xml:space="preserve">                                             @      @</text>
+  <text x="40" y="138.64" xml:space="preserve">                                              @      @@@</text>
+  <text x="40" y="146.44" xml:space="preserve">                                             @          @@@@@</text>
+  <text x="40" y="154.24" xml:space="preserve">                                              @              @</text>
+  <text x="40" y="162.04" xml:space="preserve">                                               @            @</text>
+  <text x="40" y="169.84" xml:space="preserve">                                               @        @@@@</text>
+  <text x="40" y="177.64" xml:space="preserve">                                             @@        @</text>
+  <text x="40" y="185.44" xml:space="preserve">                                              @       @@</text>
+  <text x="40" y="193.24" xml:space="preserve">                                              @@@@@@@@</text>
+  </g>
+<text x="576" y="86.0" font-size="15" fill="#8b949e"><tspan fill="#a78bfa">~</tspan> $ whoami</text>
+<text x="576" y="144.0" font-size="20" font-weight="700" fill="#a78bfa">MY INFO</text>
+<line x1="576" y1="156.0" x2="960" y2="156.0" stroke="#30363d"/>
+<text x="576" y="201.5" font-size="16" font-weight="600" fill="#a78bfa">Name</text>
+<text x="736" y="201.5" font-size="16" fill="#e6edf3">Yurii Dmytrenko</text>
+<text x="576" y="244.7" font-size="16" font-weight="600" fill="#a78bfa">Age</text>
+<text x="736" y="244.7" font-size="16" fill="#e6edf3">15</text>
+<text x="576" y="287.9" font-size="16" font-weight="600" fill="#a78bfa">Location</text>
+<rect x="736" y="276.9" width="11" height="11" rx="2" fill="#ff3b30"/>
+<text x="756" y="287.9" font-size="16" fill="#e6edf3">Kyiv, Ukraine</text>
+<text x="576" y="331.0" font-size="16" font-weight="600" fill="#a78bfa">Role</text>
+<text x="736" y="331.0" font-size="16" fill="#e6edf3">Full-stack developer</text>
+<rect x="576" y="363.8" width="26" height="26" rx="5" fill="#f87171"/>
+<rect x="608" y="363.8" width="26" height="26" rx="5" fill="#fb923c"/>
+<rect x="640" y="363.8" width="26" height="26" rx="5" fill="#fbbf24"/>
+<rect x="672" y="363.8" width="26" height="26" rx="5" fill="#4ade80"/>
+<rect x="704" y="363.8" width="26" height="26" rx="5" fill="#22d3ee"/>
+<rect x="736" y="363.8" width="26" height="26" rx="5" fill="#60a5fa"/>
+<rect x="768" y="363.8" width="26" height="26" rx="5" fill="#a78bfa"/>
+<rect x="800" y="363.8" width="26" height="26" rx="5" fill="#f472b6"/>
+<rect x="842" y="366.8" width="11" height="20" fill="#e6edf3"><animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/></rect>
 </svg>
