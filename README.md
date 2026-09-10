@@ -28,6 +28,8 @@
   <a href="https://yuraitdeveloper14.github.io/sayso/">demo</a><br>
   <b><a href="https://github.com/YuraItDeveloper14/Portfolio">Portfolio</a></b> — a 3D globe that flies from space down to Ukraine as you scroll ·
   <a href="https://yurii-dmytrenko.vercel.app">site</a><br>
+  <b><a href="https://github.com/YuraItDeveloper14/chomu-ya-uspishnyi">Чому я успішний</a></b> — one page about code, judo and school, a colour world for each ·
+  <a href="https://chomu-ya-uspishnyi.vercel.app">site</a><br>
   <b><a href="https://github.com/YuraItDeveloper14/CrownFlower">CrownFlower</a></b> — cap-brand storefront with cart, wishlist and a 3D hero ·
   <a href="https://crownflower.vercel.app">site</a><br>
   <b><a href="https://github.com/YuraItDeveloper14/Spinute">Spinute</a></b> — one minute of speaking practice, then an honest breakdown ·
